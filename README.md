@@ -1,5 +1,5 @@
 # Semantic-Segmentation
-Paper list for Semantic Segmentation from zero
+Paper list for Semantic Segmentation from zero. (Updating...)
 
 # Survey
 - [*Survey on semantic segmentation using deep learning techniques*](https://www.sciencedirect.com/science/article/pii/S092523121930181X)
