@@ -1,5 +1,7 @@
 # Semantic-Segmentation
+
 Paper list for Semantic Segmentation from zero. (Updating...)
+ This paper list will also include Domain Adaptation for Semantic Segmentation tasks.
 
 # Survey
 - [*Survey on semantic segmentation using deep learning techniques*](https://www.sciencedirect.com/science/article/pii/S092523121930181X)
